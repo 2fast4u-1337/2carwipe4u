@@ -26,3 +26,5 @@ end
 for i = 1, #Config.DeleteVehiclesAt, 1 do
     TriggerEvent('cron:runAt', Config.DeleteVehiclesAt[i].h, Config.DeleteVehiclesAt[i].m, DeleteVehTaskCoroutine)
 end
+
+-- 2fast4u on da komputer malkiq dev
