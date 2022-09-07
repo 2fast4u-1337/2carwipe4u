@@ -4,7 +4,7 @@
 Drag and drop to you server
 ``ensure 2carwipe4u`` in server.cfg
 
-##Performace
+## Performace
 Runs with extremly low ms client side. Medium to low performance server/client side when used, otherwise script is idle at 0.00 - 0.01 ms
 
 ## Requirements
